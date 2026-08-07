@@ -26,7 +26,3 @@ pnpm docs:preview  # 预览构建产物
 | [plan/03-内容与写作规范.md](./plan/03-内容与写作规范.md)             | 写作规范                |
 | [plan/04-部署与域名.md](./plan/04-部署与域名.md)                 | GitHub + Cloudflare |
 | [plan/05-V1验收清单.md](./plan/05-V1验收清单.md)               | 验收打勾                |
-
-## 占位符
-
-请将站点中的 `荣叙`、`YOUR_GITHUB`、`YOUR_DOMAIN` 替换为你的信息。
