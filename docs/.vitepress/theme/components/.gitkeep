@@ -1,0 +1,3 @@
+# Theme components
+
+V1 使用 VitePress 默认主题。需要自定义 Vue 组件时放在此目录，并在 `theme/index.ts` 中注册。
