@@ -17,7 +17,7 @@ description: 荣叙 · 前端开发工程师
 
 ## 链接
 
-- GitHub：[YOUR_GITHUB](https://github.com/zengyirong/rongxu_blog)
+- GitHub：[https://github.com/zengyirong/rongxu_blog](https://github.com/zengyirong/rongxu_blog)
 - 博客仓库：本仓库（VitePress + Cloudflare Pages）
 
 ## 技术栈
@@ -26,4 +26,4 @@ Vue · TypeScript · JavaScript · Node.js · Vite · Git · AI
 
 ---
 
-请将文中 `荣叙`、`YOUR_GITHUB` 替换为你的信息。
+<!-- 请将文中 `荣叙`、`https://github.com/zengyirong/rongxu_blog` 替换为你的信息。 -->
