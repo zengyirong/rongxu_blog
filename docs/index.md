@@ -33,6 +33,7 @@ description: 荣叙 的技术博客 · Vue / TypeScript / 工程化 / AI
 - [AI](/posts/ai/) — AI + 编程
 - [Notes](/posts/notes/) — 学习笔记
 - [项目实践](/projects/) — 真实项目复盘
+- [外链](/links/) — CSDN / 掘金等平台文章
 - [关于我](/about/)
 
 </div>

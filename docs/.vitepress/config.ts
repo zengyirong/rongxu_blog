@@ -26,6 +26,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '技术文章', link: '/posts/frontend/' },
       { text: '项目实践', link: '/projects/' },
+      { text: '外链', link: '/links/' },
       { text: '关于我', link: '/about/' },
       { text: 'GitHub', link: 'https://github.com/zengyirong/rongxu_blog' }
     ],
