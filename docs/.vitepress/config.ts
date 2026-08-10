@@ -27,7 +27,7 @@ export default defineConfig({
       { text: '技术文章', link: '/posts/frontend/' },
       { text: '项目实践', link: '/projects/' },
       { text: '关于我', link: '/about/' },
-      { text: 'GitHub', link: 'https://github.com/YOUR_GITHUB' }
+      { text: 'GitHub', link: 'https://github.com/zengyirong/rongxu_blog' }
     ],
 
     sidebar: {
@@ -80,7 +80,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/YOUR_GITHUB' }
+      { icon: 'github', link: 'https://github.com/zengyirong/rongxu_blog' }
     ],
 
     footer: {

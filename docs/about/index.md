@@ -17,7 +17,7 @@ description: 荣叙 · 前端开发工程师
 
 ## 链接
 
-- GitHub：[YOUR_GITHUB](https://github.com/YOUR_GITHUB)
+- GitHub：[YOUR_GITHUB](https://github.com/zengyirong/rongxu_blog)
 - 博客仓库：本仓库（VitePress + Cloudflare Pages）
 
 ## 技术栈
