@@ -42,14 +42,6 @@ description: 荣叙 的技术博客 · Vue / TypeScript / 工程化 / AI
 
 ## 技术栈
 
-<ul class="stack-list">
-  <li>Vue</li>
-  <li>TypeScript</li>
-  <li>JavaScript</li>
-  <li>Node.js</li>
-  <li>Vite</li>
-  <li>Git</li>
-  <li>AI</li>
-</ul>
+<p class="stack-list">Vue · TypeScript · JavaScript · Node.js · Vite · Git · AI</p>
 
 </div>
