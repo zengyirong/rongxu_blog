@@ -1,3 +1,10 @@
+<!--
+ * @Author: rongrong
+ * @Date: 2026-08-12 11:57:12
+ * @LastEditors: Do not edit
+ * @LastEditTime: 2026-08-13 16:07:15
+ * @FilePath: \rongxu_blog\docs\index.md
+-->
 ---
 layout: home
 title: 首页
@@ -17,6 +24,9 @@ description: 荣叙 的技术博客 · Vue / TypeScript / 工程化 / AI
 <div class="home-section">
 
 ## 最新文章
+
+- [Git日常开发与仓库管理指南](/posts/engineering/tools/git-daily-development-and-warehouse-management-guide) — Engineering
+- [VitePress + GitHub + Cloudflare Pages + CI/CD](/posts/engineering/VitePress-GitHub-Cloudflare-Pages-CICD) — Engineering
 
 - [Vue3 响应式原理](/posts/frontend/vue/vue3-reactivity) — Frontend
 - [VitePress 博客起步](/posts/engineering/vitepress-blog-starter) — Engineering

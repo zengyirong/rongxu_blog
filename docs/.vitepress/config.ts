@@ -46,7 +46,9 @@ export default defineConfig({
           text: 'Engineering',
           items: [
             { text: '概览', link: '/posts/engineering/' },
-            { text: 'VitePress 博客起步', link: '/posts/engineering/vitepress-blog-starter' }
+            { text: 'VitePress 博客起步', link: '/posts/engineering/vitepress-blog-starter' },
+            { text: 'Git日常开发与仓库管理指南', link: '/posts/engineering/tools/git-daily-development-and-warehouse-management-guide' },
+            { text: 'VitePress + GitHub + Cloudflare Pages + CI/CD', link: '/posts/engineering/VitePress-GitHub-Cloudflare-Pages-CICD' },
           ]
         }
       ],
