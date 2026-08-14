@@ -116,7 +116,7 @@ Cloudflare Pages
 }
 ```
 
-![项目 package.json](./assets/07-project-package-json.png)
+![项目 package.json](../../assets/07-project-package-json.png)
 
 最关键的是：
 
@@ -233,7 +233,7 @@ docs/.vitepress/dist/
 
 进入 Cloudflare Dashboard 后，首页可以看到创建应用入口。
 
-![Cloudflare Account Home](./assets/01-cloudflare-account-home.png)
+![Cloudflare Account Home](../../assets/01-cloudflare-account-home.png)
 
 最初目标是：
 
@@ -259,7 +259,7 @@ Cloudflare Workers and Pages
 
 GitHub App。
 
-![GitHub 授权 Cloudflare Workers and Pages](./assets/02-github-app-authorize.png)
+![GitHub 授权 Cloudflare Workers and Pages](../../assets/02-github-app-authorize.png)
 
 这里有两个选择：
 
@@ -315,7 +315,7 @@ Deploy command:
 npx wrangler deploy
 ```
 
-![误进入 Worker 部署页面](./assets/03-worker-wrong-deploy-page.png)
+![误进入 Worker 部署页面](../../assets/03-worker-wrong-deploy-page.png)
 
 看到：
 
@@ -348,7 +348,7 @@ Cloudflare Pages
 Looking to deploy Pages? Get started
 ```
 
-![从 Worker 页面找到 Pages 入口](./assets/04-worker-page-pages-entry.png)
+![从 Worker 页面找到 Pages 入口](../../assets/04-worker-page-pages-entry.png)
 
 点击这里进入 Pages。
 
@@ -363,7 +363,7 @@ Import an existing Git repository
 Drag and drop your files
 ```
 
-![Cloudflare Pages Get Started](./assets/05-pages-get-started.png)
+![Cloudflare Pages Get Started](../../assets/05-pages-get-started.png)
 
 这里选择：
 
@@ -433,7 +433,7 @@ Environment variables
 
 初始配置页面：
 
-![Cloudflare Pages Build Settings](./assets/06-pages-build-settings.png)
+![Cloudflare Pages Build Settings](../../assets/06-pages-build-settings.png)
 
 本项目最终填写：
 
@@ -456,7 +456,7 @@ Root directory
 
 最终配置：
 
-![Cloudflare Pages 最终构建配置](./assets/08-pages-build-settings-final.png)
+![Cloudflare Pages 最终构建配置](../../assets/08-pages-build-settings-final.png)
 
 ## 为什么 Root directory 留空
 
@@ -601,7 +601,7 @@ Deploy
 Success! Your project is deployed
 ```
 
-![Cloudflare Pages 首次部署成功](./assets/09-deploy-success.png)
+![Cloudflare Pages 首次部署成功](../../assets/09-deploy-success.png)
 
 并获得：
 
