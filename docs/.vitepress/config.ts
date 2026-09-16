@@ -21,7 +21,6 @@ export default defineConfig({
     logo: '/avatar/placeholder.svg',
     siteTitle: '荣叙',
     appearance: true,
-
     nav: [
       { text: '首页', link: '/' },
       { text: '技术文章', link: '/posts/frontend/' },
@@ -37,7 +36,8 @@ export default defineConfig({
           text: 'Frontend',
           items: [
             { text: '概览', link: '/posts/frontend/' },
-            { text: 'Vue3 响应式原理', link: '/posts/frontend/vue/vue3-reactivity' }
+            { text: 'Vue3 响应式原理', link: '/posts/frontend/vue/vue3-reactivity' },
+            { text: 'HTTPS 上线手册（HTTP → 证书 → Nginx → 可访问）', link: '/posts/frontend/https/https-line-on-manual' },
           ]
         }
       ],

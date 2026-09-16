@@ -10,9 +10,13 @@ description: 前端相关文章：JavaScript、TypeScript、Vue 等
 ## 文章
 
 - [Vue3 响应式原理](./vue/vue3-reactivity)
+- [HTTPS 上线手册（HTTP → 证书 → Nginx → 可访问）](./https/https-line-on-manual.md)
 
 ## 子栏目
 
 - JavaScript
 - TypeScript
 - Vue
+- LangChain
+- RAG
+- LangGraph
