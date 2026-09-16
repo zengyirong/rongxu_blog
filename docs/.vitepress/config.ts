@@ -61,7 +61,13 @@ export default defineConfig({
       '/posts/ai/': [
         {
           text: 'AI',
-          items: [{ text: '概览', link: '/posts/ai/' }]
+          items: [
+            { text: '概览', link: '/posts/ai/' },
+            {
+              text: 'AI 协作开发五步闭环：从模糊需求到验证清单逐项落地',
+              link: '/posts/ai/ai-collab-five-step-loop'
+            }
+          ]
         }
       ],
       '/posts/notes/': [

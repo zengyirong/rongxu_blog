@@ -25,6 +25,7 @@ description: 荣叙 的技术博客 · Vue / TypeScript / 工程化 / AI
 
 ## 最新文章
 
+- [AI 协作开发五步闭环：从模糊需求到验证清单逐项落地](/posts/ai/ai-collab-five-step-loop) — AI
 - [HTTPS 上线手册（HTTP → 证书 → Nginx → 可访问）](/posts/frontend/https/https-line-on-manual.md) — Frontend
 - [Git日常开发与仓库管理指南](/posts/engineering/tools/git-daily-development-and-warehouse-management-guide) — Engineering
 - [VitePress + GitHub + Cloudflare Pages + CI/CD](/posts/engineering/VitePress-GitHub-Cloudflare-Pages-CICD) — Engineering
