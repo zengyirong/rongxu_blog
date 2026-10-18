@@ -25,11 +25,11 @@ description: 荣叙 的技术博客 · Vue / TypeScript / 工程化 / AI
 
 ## 最新文章
 
+- [Node.js 与 TypeScript 工程实践：基础原理、核心模块与 CLI 开发](/posts/engineering/nodejs-typescript-engineering-practice) — Engineering
 - [AI 协作开发五步闭环：从模糊需求到验证清单逐项落地](/posts/ai/ai-collab-five-step-loop) — AI
 - [HTTPS 上线手册（HTTP → 证书 → Nginx → 可访问）](/posts/frontend/https/https-line-on-manual.md) — Frontend
 - [Git日常开发与仓库管理指南](/posts/engineering/tools/git-daily-development-and-warehouse-management-guide) — Engineering
 - [VitePress + GitHub + Cloudflare Pages + CI/CD](/posts/engineering/VitePress-GitHub-Cloudflare-Pages-CICD) — Engineering
-
 - [Vue3 响应式原理](/posts/frontend/vue/vue3-reactivity) — Frontend
 - [VitePress 博客起步](/posts/engineering/vitepress-blog-starter) — Engineering
 
